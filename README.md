@@ -14,4 +14,5 @@ LoRa
 ### Dev_env
 - nvidia noise remove rtx
 - magicam
+- phone (https://pandasms.io/main, https://sms-activate.io/)
 
