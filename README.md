@@ -12,4 +12,6 @@ https://tinyllama.insightreactions.com/guides/swarmui/civitai-integration.html#o
 LoRa
 
 ### Dev_env
-nvidia noise remove rtx
+- nvidia noise remove rtx
+- magicam
+
